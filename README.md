@@ -6,3 +6,11 @@
 
 1. 5 dimonds
 2. Gold
+
+## Todo
+
+- [ ] make 5 holes for diamons
+- [ ] tell him
+- [ ] meet you
+- [ ] polish it
+- [x] add some

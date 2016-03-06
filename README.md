@@ -9,7 +9,7 @@
 
 ## Todo
 
-- [ ] make 5 holes for diamons
+- [x] make 5 holes for diamons
 - [ ] tell him
 - [ ] meet you
 - [ ] polish it
